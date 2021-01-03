@@ -1,4 +1,4 @@
-import java.awt.Color;
+import java.awt.Color; //von sven 2.
 import java.awt.Font;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
