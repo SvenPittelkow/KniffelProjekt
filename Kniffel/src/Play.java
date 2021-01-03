@@ -16,6 +16,7 @@ public class Play implements ActionListener {
 
 	@Override
 	public void actionPerformed(ActionEvent play) { //PlayButton
+	public void actionPerformed(ActionEvent play) { // PlayButton
 
 		if (play.getSource() == Play.button) {
 			frame();
